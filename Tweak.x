@@ -1,7 +1,7 @@
-#import <YouTubeHeader/YTAppDelegate.h>
-#import <YouTubeHeader/YTGlobalConfig.h>
-#import <YouTubeHeader/YTColdConfig.h>
-#import <YouTubeHeader/YTHotConfig.h>
+#import "../YouTubeHeader/YTAppDelegate.h"
+#import "../YouTubeHeader/YTGlobalConfig.h"
+#import "../YouTubeHeader/YTColdConfig.h"
+#import "../YouTubeHeader/YTHotConfig.h"
 #import <substrate.h>
 
 NSMutableDictionary <NSString *, NSMutableDictionary <NSString *, NSNumber *> *> *cache;
