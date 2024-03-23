@@ -1,13 +1,13 @@
-#import <YouTubeHeader/GOOHUDManagerInternal.h>
-#import <YouTubeHeader/YTAlertView.h>
-#import <YouTubeHeader/YTCommonUtils.h>
-#import <YouTubeHeader/YTSettingsSectionItem.h>
-#import <YouTubeHeader/YTSettingsSectionItemManager.h>
-#import <YouTubeHeader/YTSettingsPickerViewController.h>
-#import <YouTubeHeader/YTSettingsViewController.h>
-#import <YouTubeHeader/YTSearchableSettingsViewController.h>
-#import <YouTubeHeader/YTUIUtils.h>
-#import <YouTubeHeader/YTVersionUtils.h>
+#import "../YouTubeHeader/GOOHUDManagerInternal.h"
+#import "../YouTubeHeader/YTAlertView.h"
+#import "../YouTubeHeader/YTCommonUtils.h"
+#import "../YouTubeHeader/YTSettingsSectionItem.h"
+#import "../YouTubeHeader/YTSettingsSectionItemManager.h"
+#import "../YouTubeHeader/YTSettingsPickerViewController.h"
+#import "../YouTubeHeader/YTSettingsViewController.h"
+#import "../YouTubeHeader/YTSearchableSettingsViewController.h"
+#import "../YouTubeHeader/YTUIUtils.h"
+#import "../YouTubeHeader/YTVersionUtils.h"
 #import <rootless.h>
 
 #define Prefix @"YTABC"
